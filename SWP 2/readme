@@ -1,0 +1,8 @@
+Here will be the code for the second Advanced Marketing Modeling Assignment. The main task of the assignment:
+
+"With this special work performance you must show that you know how to estimate the effect of price on sales via price elasticities
+and the uplift of sales due to display activities and retailer feature advertising.Therefore, regress log of units on log price and 
+promotional instruments and potential seasonal and other sales shifters. Control for brand effects and different package formats and 
+also different stores and/or markets in a meaningful way. Document the estimation results in a few tables that contain all important 
+estimation results and that allow an intuitive understanding of the key similarities and discrepancies of the estimation results across 
+brands and package formats. Interpret the results carefully and document your estimation strategy in some detail."
